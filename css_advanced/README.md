@@ -4,7 +4,7 @@ This README provides an overview of the CSS and styling used in the project.
 
 ## Introduction
 
-In this project, we focus on enhancing the visual appeal and layout of the webpage using CSS. CSS (Cascading Style Sheets) is used to control the presentation and styling of HTML elements.
+In this project I am focusing on the front-end aspect of the webiste. This is the chance to catch peoples attention with bright colors and logos.
 
 ## Repository Structure
 
