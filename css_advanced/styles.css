@@ -70,7 +70,7 @@ header .links .link3 {
     color: #FFFFFF;
     text-decoration: none;
 }
-.Tittop{
+.Name{
     position: absolute;
     height: 151px;
     left: 26.18%;
@@ -85,7 +85,7 @@ header .links .link3 {
     color: #FFFFFF;
 }
 
-.words3 {
+.word3 {
     position: absolute;
     height: 20px;
     left: 55.35%;
@@ -100,7 +100,7 @@ header .links .link3 {
     color: #FFFFFF;
 }
 
-.words2 {
+.word2 {
     position: absolute;
     height: 20px;
     left: 48.89%;
@@ -115,7 +115,7 @@ header .links .link3 {
     color: #FFFFFF;
 }
 
-.words1 {
+.word1 {
     position: absolute;
     height: 20px;
     left: 41.18%;
@@ -130,7 +130,7 @@ header .links .link3 {
     color: #FFFFFF;
 }
 
-.registerbtn {
+.button {
     position: absolute;
     left: 44.38%;
     right: 44.38%;
@@ -174,7 +174,7 @@ header .links .link3 {
     top: 943px;
 }
 
-.prs1 {
+.person1 {
     position: absolute;
     left: -6.07%;
     right: 91.51%;
@@ -182,7 +182,7 @@ header .links .link3 {
     bottom: -41.03%;
 }
 
-.prs2 {
+.person2 {
     position: absolute;
     left: 24.14%;
     right: 61.44%;
@@ -190,7 +190,7 @@ header .links .link3 {
     bottom: -41.03%;
 }
 
-.prs3 {
+.person3 {
     position: absolute;
     left: 56.65%;
     right: 28.93%;
@@ -198,7 +198,7 @@ header .links .link3 {
     bottom: -41.03%;
 }
 
-.prs4 {
+.person4 {
     position: absolute;
     left: 90.72%;
     right: -4.14%;
