@@ -35,7 +35,7 @@ body {
     background-size: cover;
     background-image: url("images/backgroundsmile.png");
     background-attachment: fixed;
-} /*Fixed for background image*/
+} 
 
 .header {
     display: flex;
@@ -53,7 +53,7 @@ body {
 }
 
 .logo {
-    /* Logo */
+
     width: 100px;
     height: 100px;
 }
@@ -72,7 +72,7 @@ body {
 .courses,
 .pricing,
 .login {
-    /* Courses, Pricing, Login */
+
     font-family: 'Source Sans Pro', sans-serif;
     font-style: normal;
     font-weight: 700;
@@ -80,7 +80,7 @@ body {
     line-height: 15px;
     color: #FFFFFF;
     text-decoration: none;
-    margin-left: 20px; /* add margin-left to create space between menu items */
+    margin-left: 20px;
     width: 100px;
     height: 100px;
 }
@@ -92,9 +92,9 @@ body {
 }
 
 .getschooled {
-    /* Get schooled */
+    
     color: #FFFFFF;
-    margin-top: 1%; /* use margin instead of top to push down */
+    margin-top: 1%; 
     text-align: center;
     font-style: normal;
     font-weight: 700;
@@ -106,13 +106,13 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    /*margin-top: -9%; /* adjust margin to position this block */
+    
 }
 
 .smile,
 .grin,
 .laugh {
-    /* smile, grin, laugh */
+    
     font-style: normal;
     font-weight: 700;
     font-size: 16px;
@@ -126,16 +126,16 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-top: -6%; /* adjust margin to position this block */
+    margin-top: -6%; 
 }
 
 .register-button {
-    /* Register now */
+    
     display: flex;
     justify-content: center;
     align-items: center;
     margin-top: 8%;
-    margin-bottom: 8%; /* Add margin-bottom to create space between button and text */
+    margin-bottom: 8%;
     cursor: pointer;
     text-decoration: none;
     font-size: 0.88rem;
@@ -152,12 +152,12 @@ body {
 }
 
 .learn-from-pros {
-    /* Learn from the pros */
+    
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 5%; /* adjust margin to position this block */
-    margin-bottom: 4%; /* adjust margin to position this block */
+    margin-top: 5%; 
+    margin-bottom: 4%; 
 }
 
 .learn {
