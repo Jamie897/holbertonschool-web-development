@@ -252,7 +252,7 @@ body {
 }
 
 blockquote {
-    /* specify blockquote styling here */
+    
     font-family: 'Source Sans Pro', sans-serif;
     font-style: normal;
     font-weight: 400;
@@ -263,7 +263,7 @@ blockquote {
 }
 
 .quote-info {
-    /* specify quote info styling here */
+    
     display: flex;
     flex-direction: column;
     align-items: left;
@@ -302,13 +302,13 @@ blockquote {
 }
 
 .after-quote-section {
-    /* specify after quote section styling here */
+    
     background-color: #FFFFFF;
     padding: 40px;
 }
 
 .popular {
-    /* Popular */
+    
     display: flex;
     justify-content: center;
     align-items: center;
@@ -317,7 +317,7 @@ blockquote {
 }
 
 .most {
-    /* Most popular */
+    
     font-family: 'Source Sans Pro', sans-serif;
     font-style: normal;
     font-weight: lighter;
@@ -328,7 +328,7 @@ blockquote {
 }
 
 .pop {
-    /* Popular */
+    
     font-family: 'Source Sans Pro', sans-serif;
     font-style: normal;
     font-weight: bold;
@@ -339,7 +339,7 @@ blockquote {
 }
 
 .tutorials {
-    /* Tutorials */
+    
     font-family: 'Source Sans Pro', sans-serif;
     font-style: normal;
     font-weight: lighter;
